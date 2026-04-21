@@ -124,8 +124,8 @@ jobs:
           *Build ID*: ${BID}
 
           *Download tar.gz*:
-          [Download (GitHub mirror)](${GITHUB_TARBALL})
-          [Download (AOSP source)](${AOSP_TARBALL})
+          [Download from Github](${GITHUB_TARBALL})
+          [Download from Aosp](${AOSP_TARBALL})
           EOF
           )
 
